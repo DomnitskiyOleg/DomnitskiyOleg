@@ -27,11 +27,11 @@ src="https://github.com/DomnitskiyOleg/DomnitskiyOleg/assets/119673815/988b19a0-
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   11 hrs 39 mins  ████████████████████████░   95.91 %
-JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+TypeScript
+JavaScript
+JSON        
+XML
+TSConfig
 ```
 
 <!--END_SECTION:waka-->
