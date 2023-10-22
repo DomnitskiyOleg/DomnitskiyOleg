@@ -12,6 +12,7 @@ src="https://github.com/DomnitskiyOleg/DomnitskiyOleg/assets/119673815/988b19a0-
 
 
 
+
 🛠 MY SKILLS
 <!--START_SECTION:waka-->
 
