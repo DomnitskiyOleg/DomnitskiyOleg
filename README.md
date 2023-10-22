@@ -17,12 +17,12 @@ src="https://github.com/DomnitskiyOleg/DomnitskiyOleg/assets/119673815/988b19a0-
 <!--START_SECTION:waka-->
 
 ```txt
-███ TypeScript, JavaScript ES6+ , NodeJS         ███
-███ React JS, React Native Expo, Redux Toolkit,  ███
-███ HTML, Pug, Bootstrap                         ███
-███ CSS, SASS (Scss)                             ███
-███ Webpack, Gulp                                ███
-███ Linux, Commander.JS, jQuery                  ███
-███ Git/GitHub, Figma, Lodash                    ███
-███ Jest(TDD), ESlint, Prettier                  ███
+███ TypeScript, JavaScript ES6+ , NodeJS      ███
+███ React JS, ReactNative Expo, ReduxToolkit  ███
+███ HTML, Pug, Bootstrap                      ███
+███ CSS, SASS (Scss)                          ███
+███ Webpack, Gulp                             ███
+███ Linux, Commander.JS, jQuery               ███
+███ Git/GitHub, Figma, Lodash                 ███
+███ Jest(TDD), ESlint, Prettier               ███
 ```
