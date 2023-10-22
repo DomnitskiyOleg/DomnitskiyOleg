@@ -9,7 +9,7 @@ src="https://github.com/DomnitskiyOleg/DomnitskiyOleg/assets/119673815/988b19a0-
   
 - 📧 want to offer job? [email](mailto:domnitskiy.oleg@mail.ru) :)
 - 💬 telegram me here https://t.me/domnitskiy_oleg
-- ![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+- 🗃 visit my website (soon)
 
 
 
