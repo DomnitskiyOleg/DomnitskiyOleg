@@ -7,7 +7,7 @@ src="https://github.com/DomnitskiyOleg/DomnitskiyOleg/assets/119673815/988b19a0-
 
   <img align="right" alt="GIF" src="https://github.com/DomnitskiyOleg/DomnitskiyOleg/assets/119673815/ca5eada7-07b9-4b91-83d7-99f96969cc76" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 📧 want to offer job? [email](mailto:domnitskiy.oleg@mail.ru) :)
 - 💬 ask me about anything, i am happy to help;
 
 
@@ -16,7 +16,7 @@ src="https://github.com/DomnitskiyOleg/DomnitskiyOleg/assets/119673815/988b19a0-
 <!--START_SECTION:waka-->
 
 ```txt
-███ TypeScript, JavaScript ES6+ , NodeJS        ███
+███ TypeScript, JavaScript ES6+ , NodeJS         ███
 ███ React JS, React Native Expo, Redux Toolkit,  ███
 ███ HTML, Pug, Bootstrap                         ███
 ███ CSS, SASS (Scss)                             ███
