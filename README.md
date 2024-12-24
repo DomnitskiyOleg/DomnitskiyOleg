@@ -5,7 +5,7 @@ src="https://github.com/DomnitskiyOleg/DomnitskiyOleg/assets/119673815/988b19a0-
 <br />
 
 
-  <img align="right" alt="GIF" src="https://github.com/DomnitskiyOleg/DomnitskiyOleg/assets/119673815/ca5eada7-07b9-4b91-83d7-99f96969cc76" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/DomnitskiyOleg/DomnitskiyOleg/assets/119673815/ca5eada7-07b9-4b91-83d7-99f96969cc76" width="500" height="400" />
   
 - 📧 want to offer job? [email](mailto:domnitskiy.oleg@mail.ru) :)
 - 💬 telegram me here https://t.me/domnitskiy_oleg
