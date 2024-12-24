@@ -18,11 +18,13 @@ src="https://github.com/DomnitskiyOleg/DomnitskiyOleg/assets/119673815/988b19a0-
 
 ```txt
 ███ TypeScript, JavaScript ES6+ , NodeJS      ███
-███ React JS, ReactNative Expo, ReduxToolkit  ███
+███ React JS, ReactNative Expo, NextJS        ███
+███ ReduxToolkit, RTK Query                   ███
 ███ HTML, Pug, Bootstrap                      ███
-███ CSS, SASS (Scss)                          ███
-███ Webpack, Gulp                             ███
+███ CSS, SASS (Scss), POSTScss                ███
+███ Webpack, Gulp, Vite                       ███
 ███ Linux, Commander.JS, jQuery               ███
 ███ Git/GitHub, Figma, Lodash                 ███
+███ FSD, Atomic                               ███
 ███ Jest(TDD), ESlint, Prettier               ███
 ```
