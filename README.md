@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Domnitskiy Oleg</a> <img
-src="https://github.com/DomnitskiyOleg/DomnitskiyOleg/assets/119673815/988b19a0-9173-4907-a718-ed5d283d07ef" height="32" /></h1>
+src="https://github.com/DomnitskiyOleg/DomnitskiyOleg/assets/119673815/988b19a0-9173-4907-a718-ed5d283d07ef" height="32px" /></h1>
 
 
 <br />
